@@ -1,0 +1,13 @@
+"global.actions.ok" = "Ok";
+
+"global.labels.error" = "Error";
+
+"weather.details.headers.visibility" = "Visibility";
+
+"weather.details.headers.air_pressure" = "Air Pressure";
+
+"weather.details.headers.wind" = "Wind";
+
+"weather.details.headers.humidity" = "Humidity";
+
+"weather.errors.parsing_error" = "Failed to retrieve weather forecast";

@@ -1,0 +1,153 @@
+{
+    "consolidated_weather": [
+        {
+            "id": 4869677751730176,
+            "weather_state_name": "Hail",
+            "weather_state_abbr": "h",
+            "wind_direction_compass": "NE",
+            "created": "2022-02-01T20:00:56.266425Z",
+            "applicable_date": "2022-02-01",
+            "min_temp": -1.445,
+            "max_temp": 3.7300000000000004,
+            "the_temp": 2.37,
+            "wind_speed": 3.2097545207030937,
+            "wind_direction": 39.521562481555044,
+            "air_pressure": 1006.0,
+            "humidity": 66,
+            "visibility": 8.118525312176887,
+            "predictability": 82
+        },
+        {
+            "id": 6653635971776512,
+            "weather_state_name": "Light Rain",
+            "weather_state_abbr": "lr",
+            "wind_direction_compass": "WNW",
+            "created": "2022-02-01T20:00:58.889051Z",
+            "applicable_date": "2022-02-02",
+            "min_temp": -1.9649999999999999,
+            "max_temp": 2.87,
+            "the_temp": 0.87,
+            "wind_speed": 3.9590604509557523,
+            "wind_direction": 287.832101085284,
+            "air_pressure": 1009.5,
+            "humidity": 74,
+            "visibility": 11.939336773244253,
+            "predictability": 75
+        },
+        {
+            "id": 5828253752229888,
+            "weather_state_name": "Heavy Cloud",
+            "weather_state_abbr": "hc",
+            "wind_direction_compass": "WNW",
+            "created": "2022-02-01T20:01:01.963998Z",
+            "applicable_date": "2022-02-03",
+            "min_temp": -2.0949999999999998,
+            "max_temp": 2.995,
+            "the_temp": 1.77,
+            "wind_speed": 6.959689470518838,
+            "wind_direction": 301.3049549140959,
+            "air_pressure": 1017.5,
+            "humidity": 72,
+            "visibility": 13.029843215620774,
+            "predictability": 71
+        },
+        {
+            "id": 4632319336906752,
+            "weather_state_name": "Heavy Cloud",
+            "weather_state_abbr": "hc",
+            "wind_direction_compass": "W",
+            "created": "2022-02-01T20:01:05.462370Z",
+            "applicable_date": "2022-02-04",
+            "min_temp": -4.49,
+            "max_temp": 5.155,
+            "the_temp": 2.3200000000000003,
+            "wind_speed": 2.8159989091810496,
+            "wind_direction": 274.0,
+            "air_pressure": 1022.0,
+            "humidity": 66,
+            "visibility": 13.498046408971605,
+            "predictability": 71
+        },
+        {
+            "id": 5537173517369344,
+            "weather_state_name": "Heavy Cloud",
+            "weather_state_abbr": "hc",
+            "wind_direction_compass": "W",
+            "created": "2022-02-01T20:01:08.078586Z",
+            "applicable_date": "2022-02-05",
+            "min_temp": -2.415,
+            "max_temp": 7.800000000000001,
+            "the_temp": 5.234999999999999,
+            "wind_speed": 2.8324730469816273,
+            "wind_direction": 281.0,
+            "air_pressure": 1020.5,
+            "humidity": 70,
+            "visibility": 13.451754255149924,
+            "predictability": 71
+        },
+        {
+            "id": 6534342181388288,
+            "weather_state_name": "Clear",
+            "weather_state_abbr": "c",
+            "wind_direction_compass": "WNW",
+            "created": "2022-02-01T20:01:10.908343Z",
+            "applicable_date": "2022-02-06",
+            "min_temp": -2.345,
+            "max_temp": 5.984999999999999,
+            "the_temp": 3.35,
+            "wind_speed": 3.5219702934860413,
+            "wind_direction": 289.5,
+            "air_pressure": 1031.0,
+            "humidity": 68,
+            "visibility": 9.999726596675416,
+            "predictability": 68
+        }
+    ],
+    "time": "2022-02-01T22:38:44.692243+02:00",
+    "sun_rise": "2022-02-01T07:41:15.479186+02:00",
+    "sun_set": "2022-02-01T17:39:45.934871+02:00",
+    "timezone_name": "IMT",
+    "parent": {
+        "title": "Bulgaria",
+        "location_type": "Country",
+        "woeid": 23424771,
+        "latt_long": "42.731602,25.483120"
+    },
+    "sources": [
+        {
+            "title": "BBC",
+            "slug": "bbc",
+            "url": "http://www.bbc.co.uk/weather/",
+            "crawl_rate": 360
+        },
+        {
+            "title": "Forecast.io",
+            "slug": "forecast-io",
+            "url": "http://forecast.io/",
+            "crawl_rate": 480
+        },
+        {
+            "title": "Met Office",
+            "slug": "met-office",
+            "url": "http://www.metoffice.gov.uk/",
+            "crawl_rate": 180
+        },
+        {
+            "title": "OpenWeatherMap",
+            "slug": "openweathermap",
+            "url": "http://openweathermap.org/",
+            "crawl_rate": 360
+        },
+        {
+            "title": "World Weather Online",
+            "slug": "world-weather-online",
+            "url": "http://www.worldweatheronline.com/",
+            "crawl_rate": 360
+        }
+    ],
+    "title": "Sofia",
+    "location_type": "City",
+    "woeid": 839722,
+    "latt_long": "42.697079,23.324551",
+    "timezone": "Europe/Sofia"
+}
